@@ -54,8 +54,8 @@
                                     <div class="ms-footer-widget mb-50">
                                         <h3 class="ms-footer-title">Company</h3>
                                         <ul>
-                                            <li><a href="#">About us</a></li>
-                                            <li><a href="#">Contact us</a></li>
+                                            <li><a href="about">About us</a></li>
+                                            <li><a href="contact">Contact us</a></li>
                                             <li><a href="#">Terms & Policy</a></li>
                                             <li><a href="#">Help & Support</a></li>
                                             <li><a href="#">Press</a></li>
@@ -90,7 +90,7 @@
                         <div
                             class="ms-footer-bottom-wrap align-items-center d-flex flex-wrap justify-content-between pt-35 pb-20">
                             <div class="ms-footer-logo mb-15">
-                                <a href="<?php echo $complete_path; ?>"><img src="assets/img/logo/logo.png" alt="logo"></a>
+                                <a href="<?php echo $complete_path; ?>"><img src="assets/img/logo.png" alt="logo"></a>
                             </div>
                             <div class="ms-footer-copy">
                                 <p>© The Nobles <?php echo date('Y'); ?>, All Rights Reserved</p>

@@ -45,7 +45,7 @@
     <meta name="twitter:image" content="URL to your featured image">
 
     <!-- Place favicon.svg in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.svg">
+    <link rel="icon" type="image/icon" href="assets/img/logo.png">
 
     <!-- CSS here -->
     <link rel="stylesheet" href="assets/app/css/bootstrap.min.css">
@@ -66,8 +66,10 @@
 
 
     <!--[if lte IE 9]>
-      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-      <![endif]-->
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please 
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.
+      </p>
+    <![endif]-->
 
     <div class="mouseCursor cursor-outer"></div>
     <div class="mouseCursor cursor-inner"><span>Drag</span></div>
@@ -98,7 +100,7 @@
                     <div class="offcanvas__top mb-40 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
                             <a href="<?php echo $complete_path; ?>">
-                                <img src="assets/img/logo/logo.svg" alt="logo">
+                                <img src="assets/img/logo.png" alt="logo">
                             </a>
                         </div>
                         <div class="offcanvas__close">
@@ -156,7 +158,7 @@
                             <div class="header__main d-flex align-items-center justify-content-between">
                                 <div class="header__logo pt-25 pb-25">
                                     <a href="<?php echo $complete_path; ?>">
-                                        <img width="200" src="assets/img/logo/logo.png" alt="logo not found">
+                                        <img width="80" src="assets/img/logo.png" alt="logo not found">
                                     </a>
                                 </div>
                                 <div class="d-none d-xxl-block"></div>
@@ -170,6 +172,9 @@
                                                     </li>
                                                     <li>
                                                         <a href="about">About us</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="contact">Contact us</a>
                                                     </li>
                                                 </ul>
                                             </nav> 

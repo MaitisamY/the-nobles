@@ -6033,7 +6033,7 @@ Animate Underline
   top: 25px;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 100px;
+  font-size: 70px;
   font-family: var(--bd-ff-subtitle);
   z-index: 1;
   opacity: 0;
@@ -6046,7 +6046,7 @@ Animate Underline
 }
 @media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
   .trending__title {
-    font-size: 70px;
+    font-size: 50px;
   }
 }
 @media (hover: none) {
@@ -7973,7 +7973,14 @@ Animate Underline
 }
 
 .ms-cta-img {
-  min-width: 150px;
+  min-width: 150px; 
+  border-radius: 10px 10px;
+  box-shadow: 0px 0px 1px -5px rgba(0, 0, 0, 0.1) inset, 0px 0px 0px 1px rgba(0, 0, 0, 0.1);
+}
+
+.ms-cta-img img {
+  border-radius: 10px 10px;
+  box-shadow: 0px 0px 1px -5px rgba(0, 0, 0, 0.1) inset, 0px 0px 0px 1px rgba(0, 0, 0, 0.1);
 }
 
 .ms-cta-bg {
@@ -11309,7 +11316,7 @@ Animate Underline
   max-width: 140px;
 }
 .ms-footer-logo img {
-  width: 100%;
+  width: 80px;
 }
 
 .ms-footer-border {
