@@ -4,8 +4,8 @@
             <div class="col-lg-6">
                 <div class="section__title-wrapper mb-40 bd-title-anim">
                     <span class="section__subtitle">Latest News</span>
-                    <h2 class="section__title">Morning <span class="animated-underline active">Insight
-                            The Nobles</span>
+                    <h2 class="section__title">
+                        Morning Insight The Nobles
                     </h2>
                 </div>
             </div>
@@ -21,7 +21,7 @@
                     <div class="ms-news-overlay p-absolute"></div>
                     <a class="ms-news4-cat" href="news-details.html">Event</a>
                     <div class="ms-news-thumb w-img">
-                        <a href="news-details.html"><img src="assets/img/stock-pics/event.jpg"
+                        <a href="news-details.html"><img loading="lazy" src="assets/img/stock-pics/event.jpg"
                                 alt="news image"></a>
                     </div>
                     <div class="ms-news-content ms-news-position p-absolute">
@@ -47,7 +47,7 @@
                     <div class="ms-news-overlay p-absolute"></div>
                     <a class="ms-news4-cat" href="news-details.html">Wedding Party</a>
                     <div class="ms-news-thumb w-img">
-                        <a href="news-details.html"><img src="assets/img/stock-pics/wedding.jpg"
+                        <a href="news-details.html"><img loading="lazy" src="assets/img/stock-pics/wedding.jpg"
                                 alt="news image"></a>
                     </div>
                     <div class="ms-news-content ms-news-position p-absolute">
@@ -71,7 +71,7 @@
                     <div class="ms-news-overlay p-absolute"></div>
                     <a class="ms-news4-cat" href="news-details.html">DJ Party Event</a>
                     <div class="ms-news-thumb w-img">
-                        <a href="news-details.html"><img src="assets/img/stock-pics/dj.jpg"
+                        <a href="news-details.html"><img loading="lazy" src="assets/img/stock-pics/dj.jpg"
                                 alt="news image"></a>
                     </div>
                     <div class="ms-news-content ms-news-position p-absolute">

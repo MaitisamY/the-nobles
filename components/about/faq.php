@@ -7,16 +7,16 @@
                         <h2 class="section__title mb-40 bd-title-anim">
                             Have questions? We have answers!
                         </h2>
-                        <p>Our hand-picked acts will guarantee you fantastic wedding
-                            entertainment
-                            for
-                            each
-                            part. We'll provide help and support 24
-                            hours a day, 7 days a week, right up until</p>
+                        <p>
+                            Our Band will provide Fantastic Wedding Entertainment For Each Part of your Wedding. 
+                            If you are a corporate event coordinator, we work with you to map out the sequence of your event as well, 
+                            so it goes smoothly. For Clubs and Private parties, we produce Flyers announcing the show theme, dates and 
+                            times via PPDFs or whole posters to hang in your office or club.
+                        </p>
                     </div>
                 </div>
                 <div class="col-xl-5">
-                    <div class="ms-faq-tab mb-40">
+                    <!-- <div class="ms-faq-tab mb-40">
                         <nav>
                             <div class="nav nav-tabs mb-tab-button-style justify-content-xl-end"
                                 id="nav-tab" role="tablist">
@@ -32,7 +32,7 @@
                                     Services</button>
                             </div>
                         </nav>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="row bdFadeUp">
@@ -47,23 +47,14 @@
                                             <h2 class="accordion-header" id="headingOne">
                                                 <button class="accordion-button" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                                    aria-expanded="true" aria-controls="collapseOne">How do
-                                                    event
-                                                    planners find me on The Nobles?</button>
+                                                    aria-expanded="true" aria-controls="collapseOne">
+                                                    How can We see the band before our date?</button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne"
                                                 data-bs-parent="#accordionExample">
-                                                <div class="accordion-body">We do not charge for
-                                                    leads.
-                                                    The
-                                                    only
-                                                    money you’ll ever pay to GigSalad is for your
-                                                    membership
-                                                    subscription which gives
-                                                    you additional features and exposure, and a
-                                                    small
-                                                    service fee.
+                                                <div class="accordion-body">
+                                                    Just contact us for an invitation and info to one of our live shows.
                                                 </div>
                                             </div>
                                         </div>
@@ -72,22 +63,14 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    Do I have to pay to receive or respond to leads?
+                                                    How Many Weddings have you done previously?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo"
                                                 data-bs-parent="#accordionExample">
-                                                <div class="accordion-body">We do not charge for
-                                                    leads.
-                                                    The
-                                                    only
-                                                    money you’ll ever pay to GigSalad is for your
-                                                    membership
-                                                    subscription which gives
-                                                    you additional features and exposure, and a
-                                                    small
-                                                    service fee.
+                                                <div class="accordion-body">
+                                                    Too many to remember, but over 150 easily over the years.
                                                 </div>
                                             </div>
                                         </div>
@@ -97,22 +80,14 @@
                                                     data-bs-toggle="collapse"
                                                     data-bs-target="#collapseThree" aria-expanded="false"
                                                     aria-controls="collapseThree">
-                                                    Why should I use The Nobles over other sites?
+                                                    Have you played an outdoor wedding before?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree"
                                                 data-bs-parent="#accordionExample">
-                                                <div class="accordion-body">We do not charge for
-                                                    leads.
-                                                    The
-                                                    only
-                                                    money you’ll ever pay to GigSalad is for your
-                                                    membership
-                                                    subscription which gives
-                                                    you additional features and exposure, and a
-                                                    small
-                                                    service fee.
+                                                <div class="accordion-body">
+                                                    Yes, we have, and we provision backup ideas to issues dealing with weather, etc.. 
                                                 </div>
                                             </div>
                                         </div>
@@ -122,23 +97,15 @@
                                             <h2 class="accordion-header" id="headingFour">
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                                    aria-expanded="true" aria-controls="collapseFour">How
-                                                    many leads
-                                                    and bookings can I expect to get?</button>
+                                                    aria-expanded="true" aria-controls="collapseFour">
+                                                    Have experience performing for wedding ceremonies, cocktail hours in addition to the reception?
+                                                </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour"
                                                 data-bs-parent="#accordionExample">
-                                                <div class="accordion-body">We do not charge for
-                                                    leads.
-                                                    The
-                                                    only
-                                                    money you’ll ever pay to GigSalad is for your
-                                                    membership
-                                                    subscription which gives
-                                                    you additional features and exposure, and a
-                                                    small
-                                                    service fee.
+                                                <div class="accordion-body">
+                                                    Yes we do.
                                                 </div>
                                             </div>
                                         </div>
@@ -147,22 +114,18 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                    How do I get paid for my gigs?
+                                                    How do you come up with a cost for a full on music and MC experience for our wedding?
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive"
                                                 data-bs-parent="#accordionExample">
-                                                <div class="accordion-body">We do not charge for
-                                                    leads.
-                                                    The
-                                                    only
-                                                    money you’ll ever pay to GigSalad is for your
-                                                    membership
-                                                    subscription which gives
-                                                    you additional features and exposure, and a
-                                                    small
-                                                    service fee.
+                                                <div class="accordion-body">
+                                                    The best way to look at it, and how we charge, is by the hour, 
+                                                    for the particular type of music needed. A solo acoustic guitar performing 
+                                                    with a female vocalist for the cocktail is less time, and music than the actual 
+                                                    reception with a full band, so, consider the number of hours of music times the 
+                                                    number of players provided to estimate the costs for music at a wedding event.
                                                 </div>
                                             </div>
                                         </div>
@@ -171,22 +134,36 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseSix"
                                                     aria-expanded="false" aria-controls="collapseSix">
-                                                    What type of events are booked on The Nobles?
+                                                    We only have a public club or VFW or American Legion, can we afford your band as well?
                                                 </button>
                                             </h2>
                                             <div id="collapseSix" class="accordion-collapse collapse"
                                                 aria-labelledby="headingSix"
                                                 data-bs-parent="#accordionExample">
-                                                <div class="accordion-body">We do not charge for
-                                                    leads.
-                                                    The
-                                                    only
-                                                    money you’ll ever pay to GigSalad is for your
-                                                    membership
-                                                    subscription which gives
-                                                    you additional features and exposure, and a
-                                                    small
-                                                    service fee.
+                                                <div class="accordion-body">
+                                                    Of course, we know the business well, we know the pay scales, and we always discuss 
+                                                    and confirm the hours and pay upfront to be paid to us the day of the performance, 
+                                                    which is usual and customary.
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingSeven">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse"
+                                                    data-bs-target="#collapseSeven" aria-expanded="false"
+                                                    aria-controls="collapseSeven">
+                                                    We are having a private party, can we choose all the music for our party?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseSeven" class="accordion-collapse collapse"
+                                                aria-labelledby="headingSeven"
+                                                data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    That is never a good idea, we do discuss the types of music we can play well, 
+                                                    and we will always do "song requests", even when they are not on our play list. 
+                                                    This goes for Clubs as well, generally we have a set list for clubs, 
+                                                    and always accept and play requests, we work to make it a great time for all.
                                                 </div>
                                             </div>
                                         </div>
@@ -194,7 +171,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="nav-faq-2" role="tabpanel"
+                        <!--<div class="tab-pane fade" id="nav-faq-2" role="tabpanel"
                             aria-labelledby="nav-faq-2-tab" tabindex="0">
                             <div class="ms-faq-wrap ms-faq-2column">
                                 <div class="accordion p-relative" id="accordionExample2">
@@ -204,22 +181,18 @@
                                                 <button class="accordion-button" type="button"
                                                     data-bs-toggle="collapse"
                                                     data-bs-target="#collapseSeven" aria-expanded="true"
-                                                    aria-controls="collapseSeven">How do event
-                                                    planners find me on The Nobles?</button>
+                                                    aria-controls="collapseSeven">
+                                                    We are having a private party, can we choose all the music for our party?
+                                                </button>
                                             </h2>
                                             <div id="collapseSeven" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingSeven"
                                                 data-bs-parent="#accordionExample2">
-                                                <div class="accordion-body">We do not charge for
-                                                    leads.
-                                                    The
-                                                    only
-                                                    money you’ll ever pay to GigSalad is for your
-                                                    membership
-                                                    subscription which gives
-                                                    you additional features and exposure, and a
-                                                    small
-                                                    service fee.
+                                                <div class="accordion-body">
+                                                    That is never a good idea, we do discuss the types of music we can play well, 
+                                                    and we will always do "song requests", even when they are not on our play list. 
+                                                    This goes for Clubs as well, generally we have a set list for clubs, 
+                                                    and always accept and play requests, we work to make it a great time for all.
                                                 </div>
                                             </div>
                                         </div>
@@ -513,7 +486,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
             </div>

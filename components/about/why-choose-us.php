@@ -4,16 +4,16 @@
             <div class="col-lg-7">
                 <div class="section__title-wrapper mb-40">
                     <h2 class="section__title mb-35 bd-title-anim">Why choose us?</h2>
-                    <p>Our hand-picked acts will guarantee you fantastic wedding <br> entertainment
-                        for
-                        each
-                        part.
-                        We'll provide help and support 24 hours a <br> day, 7 days a week, right up
-                        until</p>
+                    <p>
+                        We carefully choose the music for your 
+                        club, party, event or wedding. </br />
+                        We provide the support you need to have 
+                        a successful event.
+                    </p>
                 </div>
             </div>
             <div class="col-lg-5">
-                <div class="d-flex justify-content-lg-end">
+                <!-- <div class="d-flex justify-content-lg-end">
                     <div class="ms-review-part mb-40">
                         <div class="ms-review-gap d-flex align-items-center">
                             <div class="ms-review-left">
@@ -21,11 +21,11 @@
                                 <p>1050 Review On</p>
                             </div>
                             <div class="ms-review-right">
-                                <img src="assets/img/footer/start-01.png" alt="review img">
+                                <img loading="lazy" src="assets/img/footer/start-01.png" alt="review img">
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <div class="row mb-45 bdFadeUp">
@@ -74,7 +74,7 @@
             <div class="row bdFadeUp">
                 <div class="col-xl-12">
                     <div class="ms-choose-bg m-img ms-br-15 fix">
-                        <img src="assets/img/stock-pics/crowd3.jpg" alt="choose img">
+                        <img loading="lazy" src="assets/img/stock-pics/crowd6.jpg" alt="choose img">
                     </div>
                 </div>
             </div>

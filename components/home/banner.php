@@ -20,10 +20,10 @@
                                     data-background="assets/img/stock-pics/crowd15.jpg">
                                     The Nobles
                                 </h1>
-                                <h2 class="ms-banner__title msg_title bd-title-anim">Exceptional
-                                    Live Bands &amp;
-                                    Musicians
-                                    Hire For Your Event or Party</h2>
+                                <h2 class="ms-banner__title msg_title bd-title-anim">
+                                    An Exceptional Live Band of Professional 
+                                    Musicians For Your Club, Event, Party or Wedding.
+                                </h2>
                             </div>
                             <div class="ms-banner__form bdFadeUp">
                                 <form action="#">
@@ -42,10 +42,11 @@
                                             <select>
                                                 <option value="1" selected disabled>When is your
                                                     event?</option>
-                                                <option value="2">This Month</option>
-                                                <option value="3">In a few Months</option>
-                                                <option value="4">Spring Months</option>
-                                                <option value="4">Summer Months</option>
+                                                <option value="2">This Week</option>
+                                                <option value="3">This Month</option>
+                                                <option value="4">Next Month</option>
+                                                <option value="5">Spring Months</option>
+                                                <option value="6">Summer Months</option>
                                             </select>
                                         </div>
                                         <div class="ms-banner__form-select ms-nice-select ms-border-none">
@@ -61,8 +62,8 @@
                                         </div>
                                         <div class="banner__form-button">
                                             <button class="input__btn"><i class="flaticon-loupe"></i>
-                                                Find
-                                                Acts</button>
+                                                Book Band 
+                                            </button>
                                         </div>
                                     </div>
                                 </form>

@@ -22,10 +22,10 @@
                             <a href="https://www.youtube.com/watch?v=Rf9flQISwok"
                                 class="popup-video ms-video-round p-relative">
                                 <!-- <div class="ms-video-img1">
-                                    <img width="250" src="assets/img/stock-pics/crowd15.jpg" alt="about image">
+                                    <img loading="lazy" width="250" src="assets/img/stock-pics/crowd15.jpg" alt="about image">
                                 </div>
                                 <div class="ms-video-img2 d-inline-block">
-                                    <img width="250" src="assets/img/stock-pics/crowd15.jpg" alt="about image">
+                                    <img loading="lazy" width="250" src="assets/img/stock-pics/crowd15.jpg" alt="about image">
                                 </div> -->
                                 <div class="ms-video-icon mt-100">
                                     <i class="fa-sharp fa-regular fa-play"></i>

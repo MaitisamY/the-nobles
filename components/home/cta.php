@@ -19,14 +19,14 @@
                 </div>
                 <div class="ms-cta-item">
                     <div class="ms-cta-img">
-                        <img width="150" src="assets/img/stock-pics/crowd15.jpg" alt="cta image">
+                        <img loading="lazy" width="150" src="assets/img/stock-pics/crowd15.jpg" alt="cta image">
                     </div>
                 </div>
                 <div class="ms-cta-item">
                     <div class="ms-cta-app">
-                        <a target="_blank" href="#"><img src="assets/img/cta/app-store.png"
+                        <a target="_blank" href="#"><img loading="lazy" src="assets/img/cta/app-store.png"
                                 alt="app store"></a>
-                        <a target="_blank" href="#"><img src="assets/img/cta/play-store.png"
+                        <a target="_blank" href="#"><img loading="lazy" src="assets/img/cta/play-store.png"
                                 alt="play store"></a>
                     </div>
                 </div>

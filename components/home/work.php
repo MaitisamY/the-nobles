@@ -1,27 +1,36 @@
 <section class="work__area work-overlay pt-125 pb-60 include__bg"
     data-background="assets/img/bg/work-bg.jpg ">
-    <img class="work__vactor-shape d-none d-xl-block" src="assets/img/work/vactoe-shape.png"
+    <img loading="lazy" class="work__vactor-shape d-none d-xl-block" src="assets/img/work/vactoe-shape.png"
         alt="vactoe-shape.png">
     <div class="container">
         <div class="row align-items-center bdFadeUp">
             <div class="col-xl-6">
                 <div class="work__thumb-wrapper d-inline-block p-relative mb-60">
                     <div class="work__thumb-inner">
-                        
+                        <!--                                                 
                             <div class="work__thumb">
-                                <img width="10000" src="assets/img/stock-pics/crowd11.jpg" alt="work image">
+                                <img loading="lazy" src="assets/img/musicians/singer-2.jpeg" alt="work image">
                             </div>
-                        
+                            <div class="work__thumb">
+                                <img loading="lazy" src="assets/img/musicians/singer-3.jpeg" alt="work image">
+                            </div>
+                            <div class="work__thumb">
+                                <img loading="lazy" src="assets/img/musicians/singer-1.jpeg" alt="work image">
+                            </div>
+                         -->
                         <div class="work__small-thumb">
                             <div class="work__thumb">
-                                <img src="assets/img/stock-pics/crowd7.jpg" alt="work image">
+                                <img loading="lazy" src="assets/img/musicians/1.jpeg" alt="work image">
                             </div>
                             <div class="work__thumb">
-                                <img src="assets/img/stock-pics/crowd8.jpg" alt="work image">
+                                <img loading="lazy" src="assets/img/musicians/2.jpeg" alt="work image">
+                            </div>
+                            <div class="work__thumb">
+                                <img loading="lazy" src="assets/img/musicians/3.jpeg" alt="work image">
                             </div>
                         </div>
                     </div>
-                    <div class="d-none d-sm-block">
+                    <!-- <div class="d-none d-sm-block">
                         <div class="work__thumb-card ">
                             <div class="work__card-content">
                                 <span>Excellent :</span>
@@ -29,12 +38,12 @@
                             </div>
                             <div class="card__button">
                                 <a class="card__btn" href="#">
-                                    <img src="assets/img/work/star.png" alt="work icon">
+                                    <img loading="lazy" src="assets/img/work/star.png" alt="work icon">
                                     <span>Trustpilot</span>
                                 </a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-xl-6">
@@ -42,14 +51,12 @@
                     <div class="section__title-wrapper mb-50 bd-title-anim">
                         <span class="section__subtitle">How it Works</span>
                         <h2 class="section__title two">
-                            Welcome to the UK's leading
-                            live music
-                            <span class="animated-underline active">booking agency</span>
+                            Band Members
                         </h2>
                     </div>
                     <div class="work__features-inner">
                         <div class="work__features-item">
-                            <div class="work__features-icon">
+                            <!-- <div class="work__features-icon">
                                 <span>
                                     <svg width="46" height="27" viewBox="0 0 46 27" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -113,15 +120,18 @@
                                         </defs>
                                     </svg>
                                 </span>
-                            </div>
+                            </div> -->
                             <div class="work__features-content">
-                                <h4>Browse and compare.</h4>
-                                <p>Compare rates and availability of local entertainers and vendors.
+                                <h4>Bob Noble.</h4>
+                                <p>
+                                    Lead Guitarist, Musical Director, vocalist. Well known in the central Pa area as 
+                                    one of the best, if not "THE BEST" lead guitarists in the area. Brings expert musicality, guitar 
+                                    Olympics and vocals to a great band. 
                                 </p>
                             </div>
                         </div>
                         <div class="work__features-item">
-                            <div class="work__features-icon">
+                            <!-- <div class="work__features-icon">
                                 <span>
                                     <svg width="46" height="30" viewBox="0 0 46 30" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -169,15 +179,18 @@
                                         </defs>
                                     </svg>
                                 </span>
-                            </div>
+                            </div> -->
                             <div class="work__features-content">
-                                <h4>Book securely.</h4>
-                                <p>Booking through GigSalad ensures payment protection, amazing
-                                    service.</p>
+                                <h4>Zoey Noble.</h4>
+                                <p>
+                                    Bass Guitar, Lead vocals. Well known since she was a child. Became an extremely accomplished bass player 
+                                    and vocalist with direction and encouragement from her Dad. Currently, studying Music as a major in 
+                                    College. Working towards a successful solo career.
+                                </p>
                             </div>
                         </div>
                         <div class="work__features-item">
-                            <div class="work__features-icon">
+                            <!-- <div class="work__features-icon">
                                 <span>
                                     <svg width="46" height="42" viewBox="0 0 46 42" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -266,10 +279,14 @@
                                         </defs>
                                     </svg>
                                 </span>
-                            </div>
+                            </div> -->
                             <div class="work__features-content">
-                                <h4>Enjoy your event.</h4>
-                                <p>Sit back, relax, and watch your party come to life.</p>
+                                <h4>Ritchie Patrick.</h4>
+                                <p>
+                                    Well known studio drummer for Mercury Records, signed by Steve Katz 
+                                    of BST and working for years with national acts in studio and on US national tours. 
+                                    Thrilled to be part of this premium act.
+                                </p>
                             </div>
                         </div>
                         <div class="work__features-bottom">
@@ -282,7 +299,7 @@
                                 </div>
                             </div>
                             <div class="work__features-arrow">
-                                <img src="assets/img/work/arrow.png" alt="image not found">
+                                <img loading="lazy" src="assets/img/work/arrow.png" alt="image not found">
                             </div>
                         </div>
                     </div>

@@ -40,7 +40,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/musicians/singer-1.jpeg"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -57,7 +57,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/musicians/singer-2.jpeg"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -74,7 +74,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/musicians/singer-3.jpeg"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -98,7 +98,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-03.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -115,7 +115,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-04.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -132,7 +132,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-01.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -149,7 +149,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-02.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -167,7 +167,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-03.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -184,7 +184,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-04.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -201,7 +201,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-01.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -218,7 +218,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-02.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -243,7 +243,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-04.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -260,7 +260,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-01.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -277,7 +277,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-02.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -294,7 +294,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-03.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -311,7 +311,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-01.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -328,7 +328,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-02.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -345,7 +345,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-03.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
@@ -362,7 +362,7 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img
+                                            <a href="genres-details.html"><img loading="lazy"
                                                     src="assets/img/popular/popular-04.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">

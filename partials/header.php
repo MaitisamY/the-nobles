@@ -100,7 +100,7 @@
                     <div class="offcanvas__top mb-40 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
                             <a href="<?php echo $complete_path; ?>">
-                                <img src="assets/img/logo.png" alt="logo">
+                                <img loading="lazy" src="assets/img/logo.png" alt="logo">
                             </a>
                         </div>
                         <div class="offcanvas__close">
@@ -158,7 +158,7 @@
                             <div class="header__main d-flex align-items-center justify-content-between">
                                 <div class="header__logo pt-25 pb-25">
                                     <a href="<?php echo $complete_path; ?>">
-                                        <img width="80" src="assets/img/logo.png" alt="logo not found">
+                                        <img loading="lazy" width="80" src="assets/img/logo.png" alt="logo not found">
                                     </a>
                                 </div>
                                 <div class="d-none d-xxl-block"></div>
@@ -196,7 +196,7 @@
                                             <div class="ms-browse-act-item-wrap p-absolute">
                                                 <div class="ms-song-item">
                                                     <div class="ms-song-img p-relative">
-                                                        <a href="genres.html"><img src="assets/img/genres/genres-03.jpg"
+                                                        <a href="genres.html"><img loading="lazy" src="assets/img/genres/genres-03.jpg"
                                                                 alt="brand-song"></a>
                                                     </div>
                                                     <div class="ms-song-content">
@@ -209,7 +209,7 @@
                                                 </div>
                                                 <div class="ms-song-item">
                                                     <div class="ms-song-img p-relative">
-                                                        <a href="genres.html"><img src="assets/img/genres/genres-04.jpg"
+                                                        <a href="genres.html"><img loading="lazy" src="assets/img/genres/genres-04.jpg"
                                                                 alt="brand-song"></a>
                                                     </div>
                                                     <div class="ms-song-content">
@@ -221,7 +221,7 @@
                                                 </div>
                                                 <div class="ms-song-item">
                                                     <div class="ms-song-img p-relative">
-                                                        <a href="genres.html"><img src="assets/img/genres/genres-05.jpg"
+                                                        <a href="genres.html"><img loading="lazy" src="assets/img/genres/genres-05.jpg"
                                                                 alt="brand-song"></a>
                                                     </div>
                                                     <div class="ms-song-content">

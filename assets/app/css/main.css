@@ -169,6 +169,19 @@ body {
   background: var(--clr-common-body);
 }
 
+.custom-anchor-tag {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.custom-anchor-tag:hover,
+.custom-anchor-tag:focus,
+.custom-anchor-tag:active {
+  text-decoration: underline;
+  cursor: pointer;
+  color: var(--clr-common-white);
+}
+
 h1,
 h2,
 h3,
@@ -1542,8 +1555,28 @@ a:visited.ui-button,
   border-color: var(--clr-common-white);
 }
 
+.animate-show {
+  opacity: 0;
+  max-height: 0;
+  transition: opacity 0.3s ease, max-height 0s ease 0.3s;
+}
+
+.animate-hide {
+  opacity: 1;
+  max-height: none;
+  transition: opacity 0.3s ease, max-height 0s ease;
+}
+
 .ms-submit-btn .unfill__btn {
   padding: 0 42px;
+}
+
+.ms-submit-btn {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .ms-round-icon {
@@ -5590,6 +5623,9 @@ Animate Underline
 .work__thumb img {
   border-radius: 10px;
   max-width: 100%;
+  width: 60%;
+  height: 250px;
+  object-fit: cover;
 }
 
 .work__small-thumb {

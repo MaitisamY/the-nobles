@@ -3,7 +3,10 @@
 ?>
 
 <main>
-    
+    <!--
+        Commented the Area that is not in use
+        Please uncomment the 'include(....)' if needed
+    --->
     <?php
 
         // About section
@@ -16,13 +19,13 @@
         include('./components/about/work.php');
 
         // Team Area
-        include('./components/about/team.php');
+        //include('./components/about/team.php');
 
         // FAQ and Popular Area
         include('./components/about/faq.php');
 
         // Partner Area
-        include('./components/home/partner.php');
+        //include('./components/home/partner.php');
 
     ?>
 

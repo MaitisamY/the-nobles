@@ -12,7 +12,7 @@
                 <div class="ms-team-item-wrap">
                     <div class="ms-team-item p-relative">
                         <div class="ms-team-img">
-                            <a href="team-details.html"><img src="assets/img/musicians/singer-1.jpeg"
+                            <a href="team-details.html"><img loading="lazy" src="assets/img/musicians/singer-1.jpeg"
                                     alt="team image"></a>
                             <div class="ms-team-social">
                                 <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
@@ -29,7 +29,7 @@
                 <div class="ms-team-item-wrap">
                     <div class="ms-team-item p-relative">
                         <div class="ms-team-img">
-                            <a href="team-details.html"><img src="assets/img/musicians/singer-2.jpeg"
+                            <a href="team-details.html"><img loading="lazy" src="assets/img/musicians/singer-2.jpeg"
                                     alt="team image"></a>
                             <div class="ms-team-social">
                                 <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
@@ -46,7 +46,7 @@
                 <div class="ms-team-item-wrap">
                     <div class="ms-team-item p-relative">
                         <div class="ms-team-img">
-                            <a href="team-details.html"><img src="assets/img/musicians/singer-3.jpeg"
+                            <a href="team-details.html"><img loading="lazy" src="assets/img/musicians/singer-3.jpeg"
                                     alt="team image"></a>
                             <div class="ms-team-social">
                                 <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>

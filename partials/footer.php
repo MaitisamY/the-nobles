@@ -6,7 +6,11 @@
                     <div class="container">
                         <div class="ms-footer-border pb-10">
                             <div class="row">
-                                <div class="col-xxl-2 col-lg-3 col-md-6">
+                                <!-- Temporary column -->
+                                    <div class="col-xxl-1 col-lg-3 col-md-6"></div>
+                                <!-- Temporary column Ends -->
+
+                                <!-- <div class="col-xxl-2 col-lg-3 col-md-6">
                                     <div class="ms-footer-widget mb-50">
                                         <h3 class="ms-footer-title">Local Band Group</h3>
                                         <ul>
@@ -20,7 +24,7 @@
                                             <li><a href="#">The Fiction</a></li>
                                         </ul>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="col-xxl-2 col-lg-3 col-md-6">
                                     <div class="ms-footer-widget mb-50">
                                         <h3 class="ms-footer-title">Trending Genres</h3>
@@ -52,7 +56,7 @@
                                 </div>
                                 <div class="col-xxl-2 col-lg-3 col-md-6">
                                     <div class="ms-footer-widget mb-50">
-                                        <h3 class="ms-footer-title">Company</h3>
+                                        <h3 class="ms-footer-title">The Nobles</h3>
                                         <ul>
                                             <li><a href="about">About us</a></li>
                                             <li><a href="contact">Contact us</a></li>
@@ -72,7 +76,7 @@
                                                     class="fa-sharp fa-solid fa-paper-plane"></i></button>
                                         </div>
                                         <div class="ms-footer-warning mb-25">
-                                            <p>You Don’t Get Any Spam Message !</p>
+                                            <p>We do not spam!</p>
                                         </div>
                                         <div class="ms-footer-social">
                                             <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
@@ -81,6 +85,9 @@
                                         </div>
                                     </div>
                                 </div>
+                                <!-- Temporary column -->
+                                <div class="col-xxl-1 col-lg-3 col-md-6"></div>
+                                <!-- Temporary column Ends -->
                             </div>
                         </div>
                     </div>
@@ -93,7 +100,11 @@
                                 <a href="<?php echo $complete_path; ?>"><img src="assets/img/logo.png" alt="logo"></a>
                             </div>
                             <div class="ms-footer-copy">
-                                <p>© The Nobles <?php echo date('Y'); ?>, All Rights Reserved</p>
+                                <p>
+                                    ©                            <!--Defined at the top of the main.css-->
+                                    <a href="https://lazerwebsites.com" class="custom-anchor-tag" target="_blank">Lazer Websites</a> 
+                                    <?php echo date('Y'); ?>, All Rights Reserved
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -132,6 +143,8 @@
     <script src="assets/app/js/jplayer.playlist.js"></script>
     <script src="assets/app/js/settings.js"></script>
     <script src="assets/app/js/main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha384-nfKnHHx7/AhBgZn5XoXDAgZBZcL8cTUpL3+2+eEdjM8k3IjwXvAMmj9aYD4zGWIq" crossorigin="anonymous"></script>
+
 </body>
 
 </html>

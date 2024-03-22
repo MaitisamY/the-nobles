@@ -6,7 +6,7 @@
                     <div class="ms-work3-inner">
                         <div class="ms-work3-thumb m-img p-relative fix ms-br-20">
                             <div class="ms-overlay ms-overlay3 p-absolute"></div>
-                            <img src="assets/img/stock-pics/dj.jpg" alt="work image">
+                            <img loading="lazy" src="assets/img/stock-pics/dj.jpg" alt="work image">
                         </div>
                         <div class="work__features-bottom ms-work3-features pb-0">
                             <div class="work__features-action">
@@ -18,7 +18,7 @@
                                 </div>
                             </div>
                             <div class="work__features-arrow">
-                                <img src="assets/img/work/arrow.png" alt="image not found">
+                                <img loading="lazy" src="assets/img/work/arrow.png" alt="image not found">
                             </div>
                         </div>
                     </div>
@@ -28,14 +28,10 @@
                 <div class="work__content-wrapper p-relative mb-60">
                     <div class="section__title-wrapper mb-50">
                         <h2 class="section__title mb-40 bd-title-anim">How we work</h2>
-                        <p class="mb-55">Our hand-picked acts will guarantee you fantastic wedding
-                            <br>
-                            entertainment
-                            for each part. We'll provide help and support 24 hours a <br> day, 7
-                            days a
-                            week,
-                            right
-                            up until
+                        <p class="mb-55">
+                            We guarantee fantastic wedding entertainment/music for each part of your wedding. 
+                            We'll provide all the help to MC and run your event. If you're a club, corporate event provider, 
+                            or a private party organizer, we provide expert help and support - all the way up to your event.
                         </p>
                     </div>
                     <div class="work__features-inner">
@@ -107,7 +103,7 @@
                             </div>
                             <div class="work__features-content">
                                 <h4>Browse and compare.</h4>
-                                <p>Compare rates and availability <br> of local entertainers</p>
+                                <p>Compare cost and availability of local bands or entertainers.</p>
                             </div>
                         </div>
                         <div class="work__features-item">
@@ -161,8 +157,12 @@
                                 </span>
                             </div>
                             <div class="work__features-content">
-                                <h4>Book securely.</h4>
-                                <p>Booking through GigSalad <br> ensures payment protection.</p>
+                                <h4>Book securely, directly with our band leader.</h4>
+                                <p>
+                                    We accept Cash, Check, PayPal as deposit.<br />
+                                    We ensure Payment Protection.<br />
+                                    Balance due at end of gig on day of performance.
+                                </p>
                             </div>
                         </div>
                         <div class="work__features-item">

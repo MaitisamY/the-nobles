@@ -5,17 +5,15 @@
         <div class="row align-items-end mb-25 bdFadeUp">
             <div class="col-lg-8">
                 <div class="section__title-wrapper mb-40 bd-title-anim">
-                    <span class="section__subtitle">Trending Genres</span>
+                    <span class="section__subtitle">Show Pics</span>
                     <div id="msg-title">
-                        <h2 class="section__title"><span class="animated-underline active">Most
-                                Trending</span>
-                            genres</h2>
+                        <h2 class="section__title">Some Popular Vanues</h2>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="trending-btn mb-40 d-flex justify-content-lg-end">
-                    <a class="border__btn" href="genres.html">View All Genres</a>
+                    <a class="border__btn" href="genres.html">More Info</a>
                 </div>
             </div>
         </div>
@@ -34,7 +32,7 @@
                         <div class="trending__price">
                             <span>From $99</span>
                         </div>
-                        <span class="trending__title">The Nobles</span>
+                        <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
                             <h4><a href="genres-details.html">Party bands for hire</a></h4>
                             <p>Party Bands For Hire a Live Music Agency offering an unknown
@@ -58,7 +56,7 @@
                         <div class="trending__price">
                             <span>From $99</span>
                         </div>
-                        <span class="trending__title">The Nobles</span>
+                        <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
                             <h4><a href="genres-details.html">Party bands for hire</a></h4>
                             <p>Party Bands For Hire a Live Music Agency offering an unknown
@@ -82,7 +80,7 @@
                         <div class="trending__price">
                             <span>From $99</span>
                         </div>
-                        <span class="trending__title">The Nobles</span>
+                        <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
                             <h4><a href="genres-details.html">Party bands for hire</a></h4>
                             <p>Party Bands For Hire a Live Music Agency offering an unknown
@@ -106,7 +104,7 @@
                         <div class="trending__price">
                             <span>From $99</span>
                         </div>
-                        <span class="trending__title">The Nobles</span>
+                        <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
                             <h4><a href="genres-details.html">Party bands for hire</a></h4>
                             <p>Party Bands For Hire a Live Music Agency offering an unknown
@@ -130,7 +128,7 @@
                         <div class="trending__price">
                             <span>From $99</span>
                         </div>
-                        <span class="trending__title">The Nobles</span>
+                        <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
                             <h4><a href="genres-details.html">Party bands for hire</a></h4>
                             <p>Party Bands For Hire a Live Music Agency offering an unknown
@@ -154,7 +152,7 @@
                         <div class="trending__price">
                             <span>From $99</span>
                         </div>
-                        <span class="trending__title">The Nobles</span>
+                        <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
                             <h4><a href="genres-details.html">Party bands for hire</a></h4>
                             <p>Party Bands For Hire a Live Music Agency offering an unknown

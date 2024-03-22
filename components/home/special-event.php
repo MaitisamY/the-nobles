@@ -4,9 +4,8 @@
             <div class="col-lg-8">
                 <div class="section__title-wrapper mb-40 bd-title-anim">
                     <span class="section__subtitle">Special Events</span>
-                    <h2 class="section__title"><span class="animated-underline active">Special
-                            event</span>
-                        coming up
+                    <h2 class="section__title">
+                        Special event coming up
                     </h2>
                 </div>
             </div>
