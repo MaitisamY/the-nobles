@@ -5623,9 +5623,10 @@ Animate Underline
 .work__thumb img {
   border-radius: 10px;
   max-width: 100%;
-  width: 60%;
+  width: 400px;
   height: 250px;
   object-fit: cover;
+  object-position: top; 
 }
 
 .work__small-thumb {

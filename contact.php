@@ -129,7 +129,7 @@
             <!-- <img loading="lazy" class="mh-200" src="assets/img/bg/contact-bg.jpg" alt="contact bg"> -->
             <iframe 
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24462.858162524895!2d-76.75148899167182!3d39.96694372696377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c88bc157ae8561%3A0x1aacfaea5ef213cd!2sYork%2C%20PA%2C%20USA!5e0!3m2!1sen!2s!4v1711125139950!5m2!1sen!2s"  
-                style="border:0;width:100%;height:auto;min-height:600px;" 
+                style="border:0;width:100%;height:auto;min-height:800px;" 
                 allowfullscreen="" 
                 loading="lazy" 
                 referrerpolicy="no-referrer-when-downgrade">

@@ -20,13 +20,13 @@
                          -->
                         <div class="work__small-thumb">
                             <div class="work__thumb">
-                                <img loading="lazy" src="assets/img/musicians/1.jpeg" alt="work image">
+                                <img loading="lazy" src="assets/img/musicians/singer-2.jpeg" alt="work image">
                             </div>
                             <div class="work__thumb">
-                                <img loading="lazy" src="assets/img/musicians/2.jpeg" alt="work image">
+                                <img loading="lazy" src="assets/img/musicians/singer-3.jpeg" alt="work image">
                             </div>
                             <div class="work__thumb">
-                                <img loading="lazy" src="assets/img/musicians/3.jpeg" alt="work image">
+                                <img loading="lazy" src="assets/img/musicians/singer-1.jpeg" alt="work image">
                             </div>
                         </div>
                     </div>
