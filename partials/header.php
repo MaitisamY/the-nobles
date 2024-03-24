@@ -8,6 +8,115 @@
 
     // Combine the base URL with the current directory path
     $complete_path = $base_url . $current_directory;
+    
+    // Function to sanitize form inputs
+    function sanitize_input($data) {
+        $data = trim($data);
+        $data = stripslashes($data);
+        $data = htmlspecialchars($data);
+        return $data;
+    }
+
+    // Function to handle contact form submission
+    function handle_contact_form() {
+        $name = sanitize_input($_POST['name'] ?? '');
+        $phone = sanitize_input($_POST['phone'] ?? '');
+        $email = sanitize_input($_POST['email'] ?? '');
+        $subject_prefix = sanitize_input($_POST['subject'] ?? '');
+
+        $to = "rich@lazerwebsites.com";
+        $message_body = "Name: $name\n";
+        $message_body .= "Email: $email\n";
+        $message = sanitize_input($_POST['contact_message'] ?? '');
+        $subject = $subject_prefix . " - Contact Form Request";
+        $message_body .= "Phone: $phone\n";
+        $message_body .= "Message:\n$message";
+
+        send_email($to, $subject, $message_body);
+    }
+
+    // Function to handle more information form submission
+    function handle_more_info_form() {
+        $name = sanitize_input($_POST['name'] ?? '');
+        $phone = sanitize_input($_POST['phone'] ?? '');
+        $email = sanitize_input($_POST['email'] ?? '');
+        $subject_prefix = sanitize_input($_POST['subject'] ?? '');
+
+        $to = "rich@lazerwebsites.com";
+        $message_body = "Name: $name\n";
+        $message_body .= "Email: $email\n";
+        $message = sanitize_input($_POST['more_info_message'] ?? '');
+        $subject = $subject_prefix . " - More Information Request";
+        $message_body .= "Phone: $phone\n";
+        $message_body .= "Message:\n$message";
+
+        send_email($to, $subject, $message_body);
+    }
+
+    // Function to handle band booking form submission
+    function handle_band_booking_form() {
+        $name = sanitize_input($_POST['name'] ?? '');
+        $phone = sanitize_input($_POST['phone'] ?? '');
+        $email = sanitize_input($_POST['email'] ?? '');
+        $subject_prefix = sanitize_input($_POST['subject'] ?? '');
+
+        $to = "rich@lazerwebsites.com";
+        $message_body = "Name: $name\n";
+        $message_body .= "Phone: $phone\n";
+        $message_body .= "Email: $email\n";
+        $venue_name = sanitize_input($_POST['venue_name'] ?? '');
+        $venue_type = sanitize_input($_POST['venue_type'] ?? '');
+        $venue_date = sanitize_input($_POST['venue_date'] ?? '');
+        $subject = $subject_prefix . " - Band Booking Request";
+        $message_body .= "Venue Name: $venue_name\n";
+        $message_body .= "Venue Type: $venue_type\n";
+        $message_body .= "Venue Date: $venue_date";
+
+        send_email($to, $subject, $message_body);
+    }
+
+    // Function to handle subscription form submission
+    function handle_subscription_form() {
+        $email = sanitize_input($_POST['email'] ?? '');
+
+        $to = "rich@gmail.com";
+        $subject = "Subscription Request";
+        $message = "Email: $email";
+        $headers = "From: $email";
+
+        $send = mail($to, $subject, $message, $headers);
+
+        if ($send) {
+            echo "<script>alert('Thank you for subscribing.')</script>";
+        } else {
+            echo "<script>alert('Something went wrong.')</script>";
+        }
+    }
+
+    // Function to send email
+    function send_email($to, $subject, $message_body) {
+        $mail_sent = mail($to, $subject, $message_body);
+
+        if ($mail_sent) {
+            echo "<script>alert('Your message has been sent successfully.');</script>";
+        } else {
+            echo "<script>alert('Failed to send your message. Please try again later.');</script>";
+        }
+    }
+
+    // Check if form is submitted and call appropriate function
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        if (isset($_POST['contact_submit'])) {
+            handle_contact_form();
+        } elseif (isset($_POST['more_info_submit'])) {
+            handle_more_info_form();
+        } elseif (isset($_POST['book_band_submit'])) {
+            handle_band_booking_form();
+        } elseif (isset($_POST['subscribe'])) {
+            handle_subscription_form();
+        }
+    }
+
 ?>
 
 
@@ -100,7 +209,7 @@
                     <div class="offcanvas__top mb-40 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
                             <a href="<?php echo $complete_path; ?>">
-                                <img loading="lazy" src="assets/img/logo.png" alt="logo">
+                                <img width="50" loading="lazy" src="assets/img/logo.png" alt="logo">
                             </a>
                         </div>
                         <div class="offcanvas__close">
@@ -109,7 +218,7 @@
                             </button>
                         </div>
                     </div>
-                    <div class="offcanvas__user mb-30 d-xxl-none">
+                    <!-- <div class="offcanvas__user mb-30 d-xxl-none">
                         <div class="user__acount">
                             <span>
                                 <a href="javascript:void(0)"><i class="flaticon-user"></i></a>
@@ -125,14 +234,14 @@
                             <input type="text" placeholder="Search Here">
                             <button type="submit"><i class="far fa-search"></i></button>
                         </form>
-                    </div>
+                    </div> -->
                     <div class="hr-1 mt-30 mb-30 d-xl-none"></div>
                     <div class="mobile-menu fix mb-30  d-xl-none"></div>
                     <div class="hr-1 mt-30 mb-30 d-xl-none"></div>
-                    <div class="offcanvas__btn mb-30">
+                    <!-- <div class="offcanvas__btn mb-30">
                         <a class="ms-border-btn" href="services.html"><i class="fa-solid fa-plus"></i> List Your
                             Service</a>
-                    </div>
+                    </div> -->
                     <div class="offcanvas__social">
                         <div class="ms-footer-social mb-0">
                             <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
@@ -234,7 +343,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="header__btn">
+                                        <!-- <div class="header__btn">
                                             <a href="join" class="ms-border-btn"><i
                                                     class="fa-regular fa-plus"></i>List
                                                 Your Service</a>
@@ -243,7 +352,7 @@
                                             <span>
                                                 <a href="login"><i class="flaticon-user"></i></a>
                                             </span>
-                                        </div>
+                                        </div> -->
                                     </div>
                                     <div class="header__hamburger">
                                         <div class="sidebar__toggle">

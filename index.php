@@ -10,7 +10,26 @@
 
         // Banner Area 
         include('./components/home/banner.php');
+    
+    ?>    
         
+        <div class="container">
+            <div class="row justify-content-center align-items-center mt-50">
+                <div class="col-lg-12">
+                    <p class="custom-para">
+                        The Nobles epitomize versatility, effortlessly traversing through a myriad of musical genres including Pop, 
+                        Rock, Funk, Blues, Country, and Dance as well as delivering a totally electrifying performances. 
+                        Comprising seasoned virtuosos in their respective instrument, each member brings a wealth of experience 
+                        garnered from years of touring, performing, and recording at the highest levels in the industry.
+                        Embark on a journey of unparalleled musical excellence; join us and immerse yourself in an unforgettable 
+                        experience filled with boundless fun, dancing and euphoric rhythms.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    <?php
+
         // Text Scroll Area
         include('./components/home/text-scroll.php');
 

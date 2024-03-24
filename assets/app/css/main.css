@@ -169,6 +169,13 @@ body {
   background: var(--clr-common-body);
 }
 
+.custom-para {
+  font-family: var(--bd-ff-body);
+  font-size: 30px;
+  color: var(--clr-common-white);
+  line-height: normal;
+}
+
 .custom-anchor-tag {
   text-decoration: underline;
   cursor: pointer;
@@ -1756,7 +1763,7 @@ a:visited.ui-button,
   }
 }
 .offcanvas__logo img {
-  width: 100%;
+  width: 50%;
 }
 .offcanvas__wrapper {
   padding: 40px 30px;
@@ -3366,6 +3373,8 @@ Animate Underline
 /*  14 - settings css  */
 /* ------------------------------------------ */
 .bd-theme-settings-area {
+  display: none;
+  visibility: hidden;
   position: fixed;
   top: 50%;
   right: 0px;
@@ -3402,18 +3411,20 @@ Animate Underline
   transform: translateY(-50%) translateX(0%);
 }
 .bd-theme-settings-area.settings-opened .bd-theme-settings-gear {
-  opacity: 0;
-}
-.bd-theme-settings-area.settings-opened .bd-theme-settings-close {
   opacity: 1;
 }
+.bd-theme-settings-area.settings-opened .bd-theme-settings-close {
+  opacity: 0;
+}
 .bd-theme-settings-open {
-  position: absolute;
+  display: none;
+  visibility: hidden;
+  /* position: absolute;
   top: -1px;
-  inset-inline-end: 100%;
+  inset-inline-end: 100%; */
 }
 .bd-theme-settings-open button {
-  background-color: var(--clr-bg-5);
+  /* background-color: var(--clr-bg-5);
   border: 1px solid var(--clr-border-3);
   border-inline-end: 0;
   width: 45px;
@@ -3425,13 +3436,17 @@ Animate Underline
   position: relative;
   border-start-start-radius: 4px;
   border-bottom-left-radius: 4px;
-  color: var(--clr-theme-1);
+  color: var(--clr-theme-1); */
+  display: none;
+  visibility: hidden;
 }
 .bd-theme-settings-gear {
-  display: inline-block;
+  display: none;
+  visibility: hidden;
+  /* display: inline-block;
   -webkit-animation: spin 4s linear infinite;
   -moz-animation: spin 4s linear infinite;
-  animation: spin 4s linear infinite;
+  animation: spin 4s linear infinite; */
 }
 @-webkit-keyframes spin {
   100% {

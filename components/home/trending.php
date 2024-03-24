@@ -29,9 +29,6 @@
                             <a href="assets/img/stock-pics/crowd.jpg" class="popup-image"><i
                                     class="fa-regular fa-arrow-right-long"></i></a>
                         </div>
-                        <div class="trending__price">
-                            <span>From $99</span>
-                        </div>
                         <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
                             <h4><a href="genres-details.html">Party bands for hire</a></h4>
@@ -52,9 +49,6 @@
                         <div class="trending__arrow">
                             <a href="assets/img/stock-pics/crowd1.jpg" class="popup-image"><i
                                     class="fa-regular fa-arrow-right-long"></i></a>
-                        </div>
-                        <div class="trending__price">
-                            <span>From $99</span>
                         </div>
                         <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
@@ -77,9 +71,6 @@
                             <a href="assets/img/stock-pics/crowd3.jpg" class="popup-image"><i
                                     class="fa-regular fa-arrow-right-long"></i></a>
                         </div>
-                        <div class="trending__price">
-                            <span>From $99</span>
-                        </div>
                         <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
                             <h4><a href="genres-details.html">Party bands for hire</a></h4>
@@ -100,9 +91,6 @@
                         <div class="trending__arrow">
                             <a href="assets/img/stock-pics/crowd4.jpg" class="popup-image"><i
                                     class="fa-regular fa-arrow-right-long"></i></a>
-                        </div>
-                        <div class="trending__price">
-                            <span>From $99</span>
                         </div>
                         <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
@@ -125,9 +113,6 @@
                             <a href="assets/img/stock-pics/crowd12.jpg" class="popup-image"><i
                                     class="fa-regular fa-arrow-right-long"></i></a>
                         </div>
-                        <div class="trending__price">
-                            <span>From $99</span>
-                        </div>
                         <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
                             <h4><a href="genres-details.html">Party bands for hire</a></h4>
@@ -148,9 +133,6 @@
                         <div class="trending__arrow">
                             <a href="assets/img/stock-pics/crowd13.jpg" class="popup-image"><i
                                     class="fa-regular fa-arrow-right-long"></i></a>
-                        </div>
-                        <div class="trending__price">
-                            <span>From $99</span>
                         </div>
                         <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">

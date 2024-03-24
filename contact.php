@@ -43,47 +43,49 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="ms-contact-wrap ms-contact-space mb-70 ms-bg-2">
-                        <form>
+                        <form method="post">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="ms-input2-box mb-30">
-                                        <input type="text" placeholder="Name">
+                                        <input type="text" name="name" placeholder="Name">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="ms-input2-box mb-30">
-                                        <input type="text" placeholder="Phone Number">
+                                        <input type="text" name="phone" placeholder="Phone Number">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="ms-input2-box mb-30">
-                                        <input type="email" placeholder="Email">
+                                        <input type="email" name="email" placeholder="Email">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="ms-input2-box mb-30">
-                                        <input type="text" placeholder="Subject">
+                                        <input type="text" name="subject" placeholder="Subject">
                                     </div>
                                 </div>
                                 <div id="contact-or-info" class="col-md-12">
                                     <div class="ms-input2-box mb-30">
                                         <textarea cols="30" rows="10"
+                                            name="contact_message"
                                             placeholder="Write Message . . ."></textarea>
                                     </div>
                                 </div>
                                 <div id="contact-name-venue" class="col-md-6" hidden>
                                     <div class="ms-input2-box mb-30">
-                                        <input type="text" placeholder="Name of Venue">
+                                        <input type="text" name="venue_name" placeholder="Name of Venue">
                                     </div>
                                 </div>
                                 <div id="contact-type-venue" class="col-md-6" hidden>
                                     <div class="ms-input2-box mb-30">
-                                        <input type="text" placeholder="Type of Venue">
+                                        <input type="text" name="venue_type" placeholder="Type of Venue">
                                     </div>
                                 </div>
                                 <div id="contact-date-venue" class="col-md-6" hidden>
                                     <div class="ms-input2-box mb-30">
-                                        <input type="date" placeholder="Date of Venue">
+                                        <label for="venue_date" class="ml-20">Date of Venue</label>
+                                        <input id="venue_date" type="date" name="venue_date" placeholder="Date of Venue">
                                     </div>
                                 </div>
                                 <div class="col-md-12">
@@ -94,7 +96,9 @@
                                         <span class="checkmark"></span>
                                     </div> -->
                                     <div class="ms-submit-btn mt-40">
-                                        <button class="unfill__btn" type="submit">Send Message</button>
+                                        <button class="unfill__btn" name="contact_submit" type="submit">
+                                            Send Message
+                                        </button>
                                     </div>
                                 </div>
                             </div>
@@ -214,6 +218,8 @@
     <!-- Partner Area End Here  -->
 
 </main>
+
+
 <script type="text/javascript">
     const contactBtn = document.getElementById('contact-btn');
     const moreInfoBtn = document.getElementById('more-info-btn');
@@ -223,9 +229,13 @@
     const contactTypeVenue = document.getElementById('contact-type-venue');
     const contactDateVenue = document.getElementById('contact-date-venue');
     const textarea = document.querySelector('#contact-or-info textarea');
+    const submitBtn = document.querySelector('.unfill__btn');
+
 
     contactBtn.addEventListener('click', () => {
         textarea.setAttribute('placeholder', 'Write Message . . .');
+        textarea.setAttribute('name', 'contact_message');
+        submitBtn.setAttribute('name', 'contact_submit');
         contactBtn.classList.add('active');
         moreInfoBtn.classList.remove('active');
         bookBandBtn.classList.remove('active');
@@ -241,11 +251,16 @@
             contactNameVenue.setAttribute('hidden', 'true');
             contactTypeVenue.setAttribute('hidden', 'true');
             contactDateVenue.setAttribute('hidden', 'true');
+            submitBtn.setAttribute('name', 'contact_submit');
+            submitBtn.innerHTML = 'Send Message';
         }, 10);
     });
 
+
     moreInfoBtn.addEventListener('click', () => {
         textarea.setAttribute('placeholder', 'I need information about . . .');
+        textarea.setAttribute('name', 'more_info_message');
+        submitBtn.setAttribute('name', 'more_info_submit');
         moreInfoBtn.classList.add('active');
         contactBtn.classList.remove('active');
         bookBandBtn.classList.remove('active');
@@ -261,11 +276,15 @@
             contactNameVenue.setAttribute('hidden', 'true');
             contactTypeVenue.setAttribute('hidden', 'true');
             contactDateVenue.setAttribute('hidden', 'true');
+            submitBtn.setAttribute('name', 'more_info_submit');
+            submitBtn.innerHTML = 'Inquire';
         }, 10);
     });
 
+
     bookBandBtn.addEventListener('click', () => {
         textarea.setAttribute('placeholder', 'I need information about . . .');
+        submitBtn.setAttribute('name', 'book_band_submit');
         bookBandBtn.classList.add('active');
         moreInfoBtn.classList.remove('active');
         contactBtn.classList.remove('active');
@@ -281,6 +300,8 @@
             contactNameVenue.removeAttribute('hidden');
             contactTypeVenue.removeAttribute('hidden');
             contactDateVenue.removeAttribute('hidden');
+            submitBtn.setAttribute('name', 'book_band_submit');
+            submitBtn.innerHTML = 'Book Band';
         }, 10);
     });
 </script>

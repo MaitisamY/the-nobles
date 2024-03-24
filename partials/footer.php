@@ -1,4 +1,4 @@
-    <!-- Footer Area Start Here  -->
+<!-- Footer Area Start Here  -->
     <footer>
             <div class="ms-footer-bg ms-footer-overlay zindex-1 include__bg pt-120"
                 data-background="assets/img/bg/sound-bg.png">
@@ -7,7 +7,7 @@
                         <div class="ms-footer-border pb-10">
                             <div class="row">
                                 <!-- Temporary column -->
-                                    <div class="col-xxl-1 col-lg-3 col-md-6"></div>
+                                    <div class="col-xxl-3 col-lg-3 col-md-6"></div>
                                 <!-- Temporary column Ends -->
 
                                 <!-- <div class="col-xxl-2 col-lg-3 col-md-6">
@@ -24,7 +24,7 @@
                                             <li><a href="#">The Fiction</a></li>
                                         </ul>
                                     </div>
-                                </div> -->
+                                </div> 
                                 <div class="col-xxl-2 col-lg-3 col-md-6">
                                     <div class="ms-footer-widget mb-50">
                                         <h3 class="ms-footer-title">Trending Genres</h3>
@@ -53,7 +53,7 @@
                                             <li><a href="#">Hong Kong</a></li>
                                         </ul>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="col-xxl-2 col-lg-3 col-md-6">
                                     <div class="ms-footer-widget mb-50">
                                         <h3 class="ms-footer-title">The Nobles</h3>
@@ -71,9 +71,11 @@
                                         <h3 class="ms-footer-title">Subscribe Now</h3>
                                         <div class="ms-subscribe-form mb-20 pt-5">
                                             <i class="flaticon-mail"></i>
-                                            <input type="text" placeholder="Enter your mail">
-                                            <button type="submit" class="ms-subscribe-btn"><i
+                                            <form method="post">
+                                                <input type="text" name="email" placeholder="Enter your mail">
+                                                <button type="submit" class="ms-subscribe-btn" name="subscribe"><i
                                                     class="fa-sharp fa-solid fa-paper-plane"></i></button>
+                                            </form>
                                         </div>
                                         <div class="ms-footer-warning mb-25">
                                             <p>We do not spam!</p>
@@ -86,7 +88,7 @@
                                     </div>
                                 </div>
                                 <!-- Temporary column -->
-                                <div class="col-xxl-1 col-lg-3 col-md-6"></div>
+                                <div class="col-xxl-3 col-lg-3 col-md-6"></div>
                                 <!-- Temporary column Ends -->
                             </div>
                         </div>
