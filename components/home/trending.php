@@ -13,7 +13,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="trending-btn mb-40 d-flex justify-content-lg-end">
-                    <a class="border__btn" href="genres.html">More Info</a>
+                    <a class="border__btn" href="">More Info</a>
                 </div>
             </div>
         </div>
@@ -31,7 +31,7 @@
                         </div>
                         <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
-                            <h4><a href="genres-details.html">Party bands for hire</a></h4>
+                            <h4><a href="">Party bands for hire</a></h4>
                             <p>Party Bands For Hire a Live Music Agency offering an unknown
                                 printer took
                                 a galley
@@ -52,7 +52,7 @@
                         </div>
                         <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
-                            <h4><a href="genres-details.html">Party bands for hire</a></h4>
+                            <h4><a href="">Party bands for hire</a></h4>
                             <p>Party Bands For Hire a Live Music Agency offering an unknown
                                 printer took
                                 a galley
@@ -73,7 +73,7 @@
                         </div>
                         <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
-                            <h4><a href="genres-details.html">Party bands for hire</a></h4>
+                            <h4><a href="">Party bands for hire</a></h4>
                             <p>Party Bands For Hire a Live Music Agency offering an unknown
                                 printer took
                                 a galley
@@ -94,7 +94,7 @@
                         </div>
                         <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
-                            <h4><a href="genres-details.html">Party bands for hire</a></h4>
+                            <h4><a href="">Party bands for hire</a></h4>
                             <p>Party Bands For Hire a Live Music Agency offering an unknown
                                 printer took
                                 a galley
@@ -115,7 +115,7 @@
                         </div>
                         <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
-                            <h4><a href="genres-details.html">Party bands for hire</a></h4>
+                            <h4><a href="">Party bands for hire</a></h4>
                             <p>Party Bands For Hire a Live Music Agency offering an unknown
                                 printer took
                                 a galley
@@ -136,7 +136,7 @@
                         </div>
                         <span class="trending__title"><img loading="lazy" width="80" src="assets/img/logo.png" alt="logo"></span>
                         <div class="trending__content">
-                            <h4><a href="genres-details.html">Party bands for hire</a></h4>
+                            <h4><a href="">Party bands for hire</a></h4>
                             <p>Party Bands For Hire a Live Music Agency offering an unknown
                                 printer took
                                 a galley

@@ -162,50 +162,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="ms-contact-map-item-wrapper">
-                        <div class="ms-contact-map-item ms-bg-6">
-                            <div class="ms-contact-flag mb-5">
-                                <img loading="lazy" src="assets/img/contact/flag-02.jpg" alt="flag image">
-                            </div>
-                            <h3 class="ms-title3 white-text mb-40">Singapure</h3>
-                            <div class="ms-contact-map-content ms-footer2-contact border-0">
-                                <ul>
-                                    <li><i class="flaticon-pin"></i><a href="#">936 Kuhl Avenue,
-                                            Norcross,
-                                            Georgia
-                                            GA 5983, United State</a></li>
-                                    <li><i class="flaticon-phone-call"></i><a href="tel:03332920560">0333
-                                            292
-                                            0560</a></li>
-                                    <li><i class="flaticon-mail"></i><a
-                                            href="mailto:info@the-nobles-contact.com">info@the-nobles-contact.com</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="ms-contact-map-item-wrapper">
-                        <div class="ms-contact-map-item ms-bg-6">
-                            <div class="ms-contact-flag mb-5">
-                                <img loading="lazy" src="assets/img/contact/flag-03.jpg" alt="flag image">
-                            </div>
-                            <h3 class="ms-title3 white-text mb-40">South Africa</h3>
-                            <div class="ms-contact-map-content ms-footer2-contact border-0">
-                                <ul>
-                                    <li><i class="flaticon-pin"></i><a href="#">936 Kuhl Avenue,
-                                            Norcross,
-                                            Georgia
-                                            GA 5983, United State</a></li>
-                                    <li><i class="flaticon-phone-call"></i><a href="tel:03332920560">0333
-                                            292
-                                            0560</a></li>
-                                    <li><i class="flaticon-mail"></i><a
-                                            href="mailto:info@the-nobles-contact.com">info@the-nobles-contact.com</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div> -->
                 </div>
             </div>
         </div>

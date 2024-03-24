@@ -40,16 +40,16 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/musicians/singer-1.jpeg"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
                                         <h4 class="ms-popular__title"><a
-                                                href="genres-details.html">Drummer</a>
+                                                href="">Drummer</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -57,16 +57,16 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/musicians/singer-2.jpeg"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
                                         <h4 class="ms-popular__title"><a
-                                                href="genres-details.html">Singer</a>
+                                                href="">Singer</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -74,15 +74,15 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/musicians/singer-3.jpeg"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
-                                        <h4 class="ms-popular__title"><a href="genres-details.html">Singer</a>
+                                        <h4 class="ms-popular__title"><a href="">Singer</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -98,16 +98,16 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-03.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
                                         <h4 class="ms-popular__title"><a
-                                                href="genres-details.html">Tributes</a>
+                                                href="">Tributes</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -115,15 +115,15 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-04.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
-                                        <h4 class="ms-popular__title"><a href="genres-details.html">Solo
+                                        <h4 class="ms-popular__title"><a href="">Solo
                                                 Musicians
                                             </a></h4>
                                     </div>
@@ -132,16 +132,16 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-01.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
                                         <h4 class="ms-popular__title"><a
-                                                href="genres-details.html">Singers</a>
+                                                href="">Singers</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -149,15 +149,15 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-02.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
-                                        <h4 class="ms-popular__title"><a href="genres-details.html">Bands &
+                                        <h4 class="ms-popular__title"><a href="">Bands &
                                                 Group</a>
                                         </h4>
                                     </div>
@@ -167,16 +167,16 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-03.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
                                         <h4 class="ms-popular__title"><a
-                                                href="genres-details.html">Tributes</a>
+                                                href="">Tributes</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -184,15 +184,15 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-04.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
-                                        <h4 class="ms-popular__title"><a href="genres-details.html">Solo
+                                        <h4 class="ms-popular__title"><a href="">Solo
                                                 Musicians
                                             </a></h4>
                                     </div>
@@ -201,16 +201,16 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-01.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
                                         <h4 class="ms-popular__title"><a
-                                                href="genres-details.html">Singers</a>
+                                                href="">Singers</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -218,15 +218,15 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-02.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
-                                        <h4 class="ms-popular__title"><a href="genres-details.html">Bands &
+                                        <h4 class="ms-popular__title"><a href="">Bands &
                                                 Group</a>
                                         </h4>
                                     </div>
@@ -243,15 +243,15 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-04.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
-                                        <h4 class="ms-popular__title"><a href="genres-details.html">Solo
+                                        <h4 class="ms-popular__title"><a href="">Solo
                                                 Musicians
                                             </a></h4>
                                     </div>
@@ -260,16 +260,16 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-01.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
                                         <h4 class="ms-popular__title"><a
-                                                href="genres-details.html">Singers</a>
+                                                href="">Singers</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -277,15 +277,15 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-02.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
-                                        <h4 class="ms-popular__title"><a href="genres-details.html">Bands &
+                                        <h4 class="ms-popular__title"><a href="">Bands &
                                                 Group</a>
                                         </h4>
                                     </div>
@@ -294,16 +294,16 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-03.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
                                         <h4 class="ms-popular__title"><a
-                                                href="genres-details.html">Tributes</a>
+                                                href="">Tributes</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -311,16 +311,16 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-01.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
                                         <h4 class="ms-popular__title"><a
-                                                href="genres-details.html">Singers</a>
+                                                href="">Singers</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -328,15 +328,15 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-02.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
-                                        <h4 class="ms-popular__title"><a href="genres-details.html">Bands &
+                                        <h4 class="ms-popular__title"><a href="">Bands &
                                                 Group</a>
                                         </h4>
                                     </div>
@@ -345,16 +345,16 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-03.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
                                         <h4 class="ms-popular__title"><a
-                                                href="genres-details.html">Tributes</a>
+                                                href="">Tributes</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -362,15 +362,15 @@
                                     <div class="ms-popular__item p-relative mb-30">
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
-                                            <a href="genres-details.html"><img loading="lazy"
+                                            <a href=""><img loading="lazy"
                                                     src="assets/img/popular/popular-04.png"
                                                     alt="popular band"></a>
-                                            <a href="genres-details.html" class="ms-popular__link">
+                                            <a href="" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
                                                         class="fa-regular fa-arrow-right-long"></i></span>
                                             </a>
                                         </div>
-                                        <h4 class="ms-popular__title"><a href="genres-details.html">Solo
+                                        <h4 class="ms-popular__title"><a href="">Solo
                                                 Musicians
                                             </a></h4>
                                     </div>

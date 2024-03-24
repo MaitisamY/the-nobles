@@ -11,7 +11,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="trending-btn mb-40 d-flex justify-content-lg-end">
-                    <a class="border__btn" href="event.html">View All Event</a>
+                    <a class="border__btn" href="">View All Event</a>
                 </div>
             </div>
         </div>
@@ -25,7 +25,7 @@
                             <div class="ms-event-active">
                                 <div class="ms-event-item">
                                     <div class="ms-event-item-top">
-                                        <h3 class="ms-event-title"><a href="event-details.html">Wedding
+                                        <h3 class="ms-event-title"><a href="">Wedding
                                                 entertainment
                                                 ideas</a></h3>
                                         <p class="ms-event-text">Our hand-picked acts will guarantee
@@ -46,7 +46,7 @@
                                         </div>
                                     </div>
                                     <div class="ms-event-item-bottom">
-                                        <h3 class="ms-event-title"><a href="event-details.html">Corporate
+                                        <h3 class="ms-event-title"><a href="">Corporate
                                                 entertainment ideas</a>
                                         </h3>
                                         <p class="ms-event-text">Our hand-picked acts will guarantee
@@ -69,7 +69,7 @@
                                 </div>
                                 <div class="ms-event-item">
                                     <div class="ms-event-item-top">
-                                        <h3 class="ms-event-title"><a href="event-details.html">Party
+                                        <h3 class="ms-event-title"><a href="">Party
                                                 entertainment
                                                 ideas</a></h3>
                                         <p class="ms-event-text">Our hand-picked acts will guarantee
@@ -90,7 +90,7 @@
                                         </div>
                                     </div>
                                     <div class="ms-event-item-bottom">
-                                        <h3 class="ms-event-title"><a href="event-details.html">Corporate
+                                        <h3 class="ms-event-title"><a href="">Corporate
                                                 entertainment ideas</a>
                                         </h3>
                                         <p class="ms-event-text">Our hand-picked acts will guarantee
@@ -113,7 +113,7 @@
                                 </div>
                                 <div class="ms-event-item">
                                     <div class="ms-event-item-top">
-                                        <h3 class="ms-event-title"><a href="event-details.html">Party
+                                        <h3 class="ms-event-title"><a href="">Party
                                                 entertainment
                                                 ideas</a></h3>
                                         <p class="ms-event-text">Our hand-picked acts will guarantee
@@ -134,7 +134,7 @@
                                         </div>
                                     </div>
                                     <div class="ms-event-item-bottom">
-                                        <h3 class="ms-event-title"><a href="event-details.html">New
+                                        <h3 class="ms-event-title"><a href="">New
                                                 Year’s Eve party
                                                 bands</a></h3>
                                         <p class="ms-event-text">Our hand-picked acts will guarantee

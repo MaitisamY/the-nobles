@@ -15,12 +15,12 @@
             <div class="ms-fun-brand-item ms-fun-border">
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
-                        <a href="genres-details.html"><img loading="lazy"
+                        <a href=""><img loading="lazy"
                                 src="assets/img/function-brand/function-brand-01.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
-                        <h3 class="ms-fun-brand-title"><a href="genres-details.html">Beastie
+                        <h3 class="ms-fun-brand-title"><a href="">Beastie
                                 Boys</a></h3>
                         <span class="ms-fun-brand-subtitle">American hip-hop</span>
                     </div>
@@ -42,12 +42,12 @@
             <div class="ms-fun-brand-item ms-fun-border">
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
-                        <a href="genres-details.html"><img loading="lazy"
+                        <a href=""><img loading="lazy"
                                 src="assets/img/function-brand/function-brand-02.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
-                        <h3 class="ms-fun-brand-title"><a href="genres-details.html">Blondie</a>
+                        <h3 class="ms-fun-brand-title"><a href="">Blondie</a>
                         </h3>
                         <span class="ms-fun-brand-subtitle">American rock group</span>
                     </div>
@@ -69,12 +69,12 @@
             <div class="ms-fun-brand-item ms-fun-border">
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
-                        <a href="genres-details.html"><img loading="lazy"
+                        <a href=""><img loading="lazy"
                                 src="assets/img/function-brand/function-brand-03.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
-                        <h3 class="ms-fun-brand-title"><a href="genres-details.html">Black
+                        <h3 class="ms-fun-brand-title"><a href="">Black
                                 Sabbath</a></h3>
                         <span class="ms-fun-brand-subtitle">British rock group</span>
                     </div>
@@ -96,12 +96,12 @@
             <div class="ms-fun-brand-item ms-fun-border">
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
-                        <a href="genres-details.html"><img loading="lazy"
+                        <a href=""><img loading="lazy"
                                 src="assets/img/function-brand/function-brand-04.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
-                        <h3 class="ms-fun-brand-title"><a href="genres-details.html">The
+                        <h3 class="ms-fun-brand-title"><a href="">The
                                 Coasters</a></h3>
                         <span class="ms-fun-brand-subtitle">Canada band group</span>
                     </div>
@@ -123,12 +123,12 @@
             <div class="ms-fun-brand-item ms-fun-border">
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
-                        <a href="genres-details.html"><img loading="lazy"
+                        <a href=""><img loading="lazy"
                                 src="assets/img/function-brand/function-brand-05.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
-                        <h3 class="ms-fun-brand-title"><a href="genres-details.html">Beastie
+                        <h3 class="ms-fun-brand-title"><a href="">Beastie
                                 Boys</a></h3>
                         <span class="ms-fun-brand-subtitle">American hip-hop</span>
                     </div>
@@ -150,12 +150,12 @@
             <div class="ms-fun-brand-item ms-fun-border">
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
-                        <a href="genres-details.html"><img loading="lazy"
+                        <a href=""><img loading="lazy"
                                 src="assets/img/function-brand/function-brand-06.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
-                        <h3 class="ms-fun-brand-title"><a href="genres-details.html">Blondie</a>
+                        <h3 class="ms-fun-brand-title"><a href="">Blondie</a>
                         </h3>
                         <span class="ms-fun-brand-subtitle">American rock group</span>
                     </div>
@@ -178,12 +178,12 @@
             <div class="ms-fun-brand-item ms-fun-border">
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
-                        <a href="genres-details.html"><img loading="lazy"
+                        <a href=""><img loading="lazy"
                                 src="assets/img/function-brand/function-brand-07.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
-                        <h3 class="ms-fun-brand-title"><a href="genres-details.html">Black
+                        <h3 class="ms-fun-brand-title"><a href="">Black
                                 Sabbath</a></h3>
                         <span class="ms-fun-brand-subtitle">British rock group</span>
                     </div>
@@ -205,12 +205,12 @@
             <div class="ms-fun-brand-item ms-fun-border">
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
-                        <a href="genres-details.html"><img loading="lazy"
+                        <a href=""><img loading="lazy"
                                 src="assets/img/function-brand/function-brand-08.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
-                        <h3 class="ms-fun-brand-title"><a href="genres-details.html">The
+                        <h3 class="ms-fun-brand-title"><a href="">The
                                 Coasters</a></h3>
                         <span class="ms-fun-brand-subtitle">Canada band group</span>
                     </div>
@@ -232,12 +232,12 @@
             <div class="ms-fun-brand-item ms-fun-border">
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
-                        <a href="genres-details.html"><img loading="lazy"
+                        <a href=""><img loading="lazy"
                                 src="assets/img/function-brand/function-brand-05.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
-                        <h3 class="ms-fun-brand-title"><a href="genres-details.html">Blondie</a>
+                        <h3 class="ms-fun-brand-title"><a href="">Blondie</a>
                         </h3>
                         <span class="ms-fun-brand-subtitle">American rock group</span>
                     </div>
@@ -259,12 +259,12 @@
             <div class="ms-fun-brand-item ms-fun-border">
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
-                        <a href="genres-details.html"><img loading="lazy"
+                        <a href=""><img loading="lazy"
                                 src="assets/img/function-brand/function-brand-01.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
-                        <h3 class="ms-fun-brand-title"><a href="genres-details.html">Beastie
+                        <h3 class="ms-fun-brand-title"><a href="">Beastie
                                 Boys</a></h3>
                         <span class="ms-fun-brand-subtitle">American hip-hop</span>
                     </div>
@@ -286,12 +286,12 @@
             <div class="ms-fun-brand-item ms-fun-border">
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
-                        <a href="genres-details.html"><img loading="lazy"
+                        <a href=""><img loading="lazy"
                                 src="assets/img/function-brand/function-brand-05.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
-                        <h3 class="ms-fun-brand-title"><a href="genres-details.html">Beastie
+                        <h3 class="ms-fun-brand-title"><a href="">Beastie
                                 Boys</a></h3>
                         <span class="ms-fun-brand-subtitle">American hip-hop</span>
                     </div>
@@ -313,12 +313,12 @@
             <div class="ms-fun-brand-item ms-fun-border">
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
-                        <a href="genres-details.html"><img loading="lazy"
+                        <a href=""><img loading="lazy"
                                 src="assets/img/function-brand/function-brand-06.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
-                        <h3 class="ms-fun-brand-title"><a href="genres-details.html">Blondie</a>
+                        <h3 class="ms-fun-brand-title"><a href="">Blondie</a>
                         </h3>
                         <span class="ms-fun-brand-subtitle">American rock group</span>
                     </div>

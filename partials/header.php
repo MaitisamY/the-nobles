@@ -239,7 +239,7 @@
                     <div class="mobile-menu fix mb-30  d-xl-none"></div>
                     <div class="hr-1 mt-30 mb-30 d-xl-none"></div>
                     <!-- <div class="offcanvas__btn mb-30">
-                        <a class="ms-border-btn" href="services.html"><i class="fa-solid fa-plus"></i> List Your
+                        <a class="ms-border-btn" href=""><i class="fa-solid fa-plus"></i> List Your
                             Service</a>
                     </div> -->
                     <div class="offcanvas__social">
@@ -298,18 +298,18 @@
                                         </div>
                                     </div>
                                     <div class="header__action-inner d-flex align-items-center">
-                                        <div class="enquiry__list ml-10 mr-10 ms-browse-act-wrap p-relative">
+                                        <!-- <div class="enquiry__list ml-10 mr-10 ms-browse-act-wrap p-relative">
                                             <div class="ms-enquiry-box p-relative d-none d-xl-inline-flex">
                                                 <a href="#"><i class="flaticon-star icon"></i> <span class="text">Videos</span> <span class="number">03</span></a>
                                             </div>
                                             <div class="ms-browse-act-item-wrap p-absolute">
                                                 <div class="ms-song-item">
                                                     <div class="ms-song-img p-relative">
-                                                        <a href="genres.html"><img loading="lazy" src="assets/img/genres/genres-03.jpg"
+                                                        <a href=""><img loading="lazy" src="assets/img/genres/genres-03.jpg"
                                                                 alt="brand-song"></a>
                                                     </div>
                                                     <div class="ms-song-content">
-                                                        <h3 class="ms-song-title"><a href="genres.html">The
+                                                        <h3 class="ms-song-title"><a href="">The
                                                                 Sonics
                                                                 Corporate
                                                                 Band</a>
@@ -318,11 +318,11 @@
                                                 </div>
                                                 <div class="ms-song-item">
                                                     <div class="ms-song-img p-relative">
-                                                        <a href="genres.html"><img loading="lazy" src="assets/img/genres/genres-04.jpg"
+                                                        <a href=""><img loading="lazy" src="assets/img/genres/genres-04.jpg"
                                                                 alt="brand-song"></a>
                                                     </div>
                                                     <div class="ms-song-content">
-                                                        <h3 class="ms-song-title"><a href="genres.html">The
+                                                        <h3 class="ms-song-title"><a href="">The
                                                                 Northern
                                                                 Lights</a>
                                                         </h3>
@@ -330,11 +330,11 @@
                                                 </div>
                                                 <div class="ms-song-item">
                                                     <div class="ms-song-img p-relative">
-                                                        <a href="genres.html"><img loading="lazy" src="assets/img/genres/genres-05.jpg"
+                                                        <a href=""><img loading="lazy" src="assets/img/genres/genres-05.jpg"
                                                                 alt="brand-song"></a>
                                                     </div>
                                                     <div class="ms-song-content">
-                                                        <h3 class="ms-song-title"><a href="genres.html">The
+                                                        <h3 class="ms-song-title"><a href="">The
                                                                 Sweet
                                                                 The
                                                                 Jets</a>
@@ -342,15 +342,15 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <!-- <div class="header__btn">
-                                            <a href="join" class="ms-border-btn"><i
+                                            <a href="" class="ms-border-btn"><i
                                                     class="fa-regular fa-plus"></i>List
                                                 Your Service</a>
                                         </div>
                                         <div class="user__acount d-none d-xxl-inline-flex">
                                             <span>
-                                                <a href="login"><i class="flaticon-user"></i></a>
+                                                <a href=""><i class="flaticon-user"></i></a>
                                             </span>
                                         </div> -->
                                     </div>

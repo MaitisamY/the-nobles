@@ -12,7 +12,7 @@
                 <div class="ms-team-item-wrap">
                     <div class="ms-team-item p-relative">
                         <div class="ms-team-img">
-                            <a href="team-details.html"><img loading="lazy" src="assets/img/musicians/singer-1.jpeg"
+                            <a href=""><img loading="lazy" src="assets/img/musicians/singer-1.jpeg"
                                     alt="team image"></a>
                             <div class="ms-team-social">
                                 <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
@@ -20,7 +20,7 @@
                                 <a href="https://www.facebook.com/" title="Facebook" target="_blank">FB</a>
                             </div>
                         </div>
-                        <h3 class="ms-team-title"><a href="team-details.html">John Doe</a>
+                        <h3 class="ms-team-title"><a href="">John Doe</a>
                         </h3>
                     </div>
                 </div>
@@ -29,7 +29,7 @@
                 <div class="ms-team-item-wrap">
                     <div class="ms-team-item p-relative">
                         <div class="ms-team-img">
-                            <a href="team-details.html"><img loading="lazy" src="assets/img/musicians/singer-2.jpeg"
+                            <a href=""><img loading="lazy" src="assets/img/musicians/singer-2.jpeg"
                                     alt="team image"></a>
                             <div class="ms-team-social">
                                 <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
@@ -37,7 +37,7 @@
                                 <a href="https://www.facebook.com/" title="Facebook" target="_blank">FB</a>
                             </div>
                         </div>
-                        <h3 class="ms-team-title"><a href="team-details.html">Jason Doe</a>
+                        <h3 class="ms-team-title"><a href="">Jason Doe</a>
                         </h3>
                     </div>
                 </div>
@@ -46,7 +46,7 @@
                 <div class="ms-team-item-wrap">
                     <div class="ms-team-item p-relative">
                         <div class="ms-team-img">
-                            <a href="team-details.html"><img loading="lazy" src="assets/img/musicians/singer-3.jpeg"
+                            <a href=""><img loading="lazy" src="assets/img/musicians/singer-3.jpeg"
                                     alt="team image"></a>
                             <div class="ms-team-social">
                                 <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
@@ -54,7 +54,7 @@
                                 <a href="https://www.facebook.com/" title="Facebook" target="_blank">FB</a>
                             </div>
                         </div>
-                        <h3 class="ms-team-title"><a class="ms-team-title" href="team-details.html">Jane Doe</a></h3>
+                        <h3 class="ms-team-title"><a class="ms-team-title" href="">Jane Doe</a></h3>
                     </div>
                 </div>
             </div>
